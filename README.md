@@ -1,2 +1,2 @@
-# cgamundi.github.io
-Personal 
+# personal-website
+Personal Website
